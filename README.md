@@ -19,4 +19,4 @@ Regarding the structure, this coding work includes 5 main sections:
   V. Model modification: observe the model efficiency and adjust the model over iterations to optimize it.
 
 Conclusion:
-Developing the model with various approaches and settings, my best result with logistic regression on the data set is AUROC: 0.69, Accuracy: 0.64, Precision: 0.92, #independent variables: 6. This result surprisingly outplays the best models available on Kaggle.
+Developing the model with various approaches and settings, the best result obtained with logistic regression on the data set is AUROC: 0.69, Accuracy: 0.64, Precision: 0.92, #independent variables: 6. This result surprisingly outplays the best models available on Kaggle.
