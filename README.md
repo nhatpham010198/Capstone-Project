@@ -4,7 +4,7 @@ The objective of this work is to develop a ML model used to predict the default 
 
 From this modeling work, a contextual model development framework will be developed for banks in Vietnam. The framework will clearly explain steps and techniques that are implemented to develop the model. Some other analyses that I think suitable for the credit rating context but are not implemented due to computational and information constraints will also be discussed.
 
-In the development process, the logistic regression will be applied because it is easy to interpret. This advantage of logistic regression is beneficial for creating a framework to target non-technical audience in Vietnam's banking industry. Moreover, there is no evidence that logistic regression will not compare as well as advanced methods, such as KNN or random forest.
+In the development process, the logistic regression will be applied because it is easy to interpret. This advantage of logistic regression is beneficial for creating a framework to target non-technical audience in Vietnam's banking industry.
 
 Regarding the structure, this coding work includes 6 main sections:
  
