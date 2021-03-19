@@ -7,6 +7,7 @@ From this modeling work, a contextual model development framework will be develo
 In the development process, the logistic regression will be applied because it is easy to interpret. This advantage of logistic regression is beneficial for creating a framework to target non-technical audience in Vietnam's banking industry. Moreover, there is no evidence that logistic regression will not compare as well as advanced methods, such as KNN or random forest.
 
 Regarding the structure, this coding work includes 5 main sections:
+ 
   I. Data experiment: display some plots to understand the business of Lending Club
 
   II. Variable matching: identify and extract information available to Lending Club's investors before the approval. 
