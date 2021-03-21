@@ -1,8 +1,10 @@
 # Capstone-Project
 This is the coding work of Nhat Pham's capstone project.
-The objective of this work is to develop a ML model used to predict the default probability default. The model is trained and validated on Lending Clubs' dataset from 2007 to 2018Q4, which is available on Kaggle.
+The objective of this work is to develop a ML model used to predict the default probability of borrowers. The model is trained and validated on Lending Clubs' dataset from 2007 to 2018Q4, which is available on Kaggle: https://www.kaggle.com/wordsforthewise/lending-club. However, this data link is preferred as it containes processed data and worked perfectly with the provide code: https://drive.google.com/drive/folders/10aVpzQdUp9byf_qr4z_qn9CEzxjVjgUI
 
-From this modeling work, a contextual model development framework will be developed for banks in Vietnam. The framework will clearly explain steps and techniques that are implemented to develop the model. Some other analyses that I think suitable for the credit rating context but are not implemented due to computational and information constraints will also be discussed.
+From this modeling work, a contextual model development framework will be developed for banks in Vietnam. At a larger scale, the model and the framework are expected to help banks in Vietnam fill the gaps in technical knowledge about ML and model development to successfully comply with the internal ratings-based approach suggested by Basel Committee.
+
+The framework will clearly explain steps and techniques that are implemented to develop the model. Some other analyses that I think suitable for the credit rating context but are not implemented due to computational and information constraints will also be discussed.
 
 In the development process, the logistic regression will be applied because it is easy to interpret. This advantage of logistic regression is beneficial for creating a framework to target non-technical audience in Vietnam's banking industry.
 
